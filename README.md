@@ -2,7 +2,7 @@
 
  🧑‍💻 Привет, меня зовут Будажапов Генадий. Я Python разработчик, живу в России (Москва). Мои проекты:
  <ul>
-  <li><a>Сервис авторизации и аутентификации</a> <a href='https://github.com/GennadyBr/FastAPI_OAuth2_Redis_Jaeger_Postgres'>(GITHUB)</a> <a href='https://github.com/GennadyBr/FastAPI_OAuth2_Redis_Jaeger_Postgres'>(САЙТ)</a></li>
+  <li><a>Сервис авторизации и аутентификации</a> <a href='http://5.35.83.245/auth_api/openapi'>(сайт)</a> <a href='https://github.com/GennadyBr/FastAPI_OAuth2_Redis_Jaeger_Postgres'>(github)</a></li>
   <li><a href='https://github.com/GennadyBr/DjangoAdmin_PostgreSQL_2_ElasticSeach'>Сервис полнотекстового поиска по фильмам + Django Admin Panel</a></li>
   <li><a href='https://github.com/GennadyBr/Apache_Airflow_1'>ETL сервис на Airflow</a></li>
   <li><a href='https://github.com/GennadyBr/Flask_MongoDB_1'>Проект на Flask с MongoDB</a></li>
