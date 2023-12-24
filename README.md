@@ -1,13 +1,13 @@
-# Генадий
+# Геннадий
 
-Привет, меня зовут Генадий. Я Python разработчик, живу в России (Москва). 
+Привет, меня зовут Геннадий. Я Python разработчик, живу в России (Москва). 
  
 Мои проекты:
  <ul>
   <li><a>Сервис авторизации и аутентификации</a> <a href='http://5.35.83.245/auth_api/openapi'>(сайт)</a> <a href='https://github.com/GennadyBr/FastAPI_OAuth2_Redis_Jaeger_Postgres'>(github)</a></li>
-  <li><a>Сервис полнотекстового поиска по фильмам + Django Admin Panel</a> <a href='http://5.35.83.245:8000/admin'>(сайт)</a> <a href='https://github.com/GennadyBr/DjangoAdmin_PostgreSQL_2_ElasticSeach'>(github)</a></li>
+  <li><a>Сервис полнотекстового поиска по базе + Django Admin Panel</a> <a href='http://5.35.83.245:8000/admin'>(сайт)</a> <a href='https://github.com/GennadyBr/DjangoAdmin_PostgreSQL_2_ElasticSeach'>(github)</a></li>
   <li><a>ETL сервис на Airflow</a> <a href='http://5.35.83.245:8080/home'>(сайт)</a> <a href='https://github.com/GennadyBr/Apache_Airflow_1'>(github)</a></li>
-  <li><a>Проект на Flask с MongoDB</a> <a href='http://5.35.83.245:8081/'>(сайт)</a> <a href='https://github.com/GennadyBr/Flask_MongoDB_1'>(github)</a></li>
+  <li><a>Мини API на Flask с MongoDB</a> <a href='http://5.35.83.245:8081/'>(сайт)</a> <a href='https://github.com/GennadyBr/Flask_MongoDB_1'>(github)</a></li>
  </ul>
  <br>
 
