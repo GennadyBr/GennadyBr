@@ -1,7 +1,7 @@
 # Геннадий
 
-Привет, меня зовут Геннадий. Я Python разработчик, живу в России (Москва). 
- 
+Привет, меня зовут Геннадий. Я Python разработчик, живу в России (Москва).
+
 Мои проекты:
  <ul>
   <li><a>Сервис авторизации и аутентификации</a> <a href='http://5.35.83.245/auth_api/openapi'>(сайт)</a> <a href='https://github.com/GennadyBr/FastAPI_OAuth2_Redis_Jaeger_Postgres'>(github)</a></li>
@@ -12,6 +12,7 @@
  <br>
 
 ### 🎹 Языки и технологии
+
 <br><br>
 ![](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white)
 ![](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
@@ -44,7 +45,6 @@
 ### 📈 Статистика GitHub
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GennadyBr&theme=dark)](https://git.io/streak-stats)
-
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GennadyBr&theme=solarized_dark)
 
